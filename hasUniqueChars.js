@@ -13,9 +13,3 @@ function stringHasUniqueChars(string) {
     }
     return true;
 }
-
-console.log(stringHasUniqueChars("monday"));
-console.log(stringHasUniqueChars("moonday"));
-console.log(stringHasUniqueChars("MarshmelLow"));
-console.log(stringHasUniqueChars(123456));
-console.log(stringHasUniqueChars(32132246));
